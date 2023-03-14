@@ -1,0 +1,14 @@
+- Node-based visual programming with TouchDesigner, which includes:
+    - the interface and how to use it, shortcuts and components
+    - An introduction to Texture Operators for processing footage with
+        - Feedback loops and effects
+        - Compositing methods (time machine, difference, overlay methods)
+        - Layouts with text and textures combined
+    - An introduction to CHOP’s (Channel Operators)
+        - How to use channel operators for animating texture parameters
+        - Keyboard and mouse interaction
+    - Introduction to Interface Design
+        - Controlling your patch through custom parameters using Container components
+    - Introduction to Surface Operators
+        - Using DATs (tables) for data management
+        - Simple data visualisation with (text) instancing
